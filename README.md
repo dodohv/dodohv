@@ -10,7 +10,7 @@ eg: I've been learning to code for 5 years, I started with HTML and Bootstrap, N
 * 🖥️  See my portfolio at [Dodohv.com.br](http://www.dodohv.com.br)
 * ✉️  You can contact me at [douglasvvasquez@gmail.com](mailto:douglasvvasquez@gmail.com)
 * 🚀  I'm currently working on [My Portfolio](http://dodohv.com.br)
-* 🧠  I'm learning React JS Hooks and Socket IO and WEB RTC
+* 🧠  I'm learning React JS pagination, Hooks, Socket IO and WEB RTC
 * ⚡  I Finally got a 16GB RAM notebook from ASUS VivoBook \\z
 
 ### Skills
