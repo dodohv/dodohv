@@ -1,18 +1,18 @@
 Hi 👋 My name is Douglas Villegas Vasquez
 =========================================
 
-FrontEnd Web Developer and Web Scrapper
+FrontEnd Web Developer and VBA Developer(Selenium + Access)
 ---------------------------------------
 
-eg: I've been learning to code for 5 years, I started with HTML and Bootstrap, Now I use React Js and React-Native naturally, it means that really found a passion for frontend development...
+eg: I've been learning to code for 5 years, I started with HTML and Bootstrap, Now I use React Js and React-Native. Great doesn't?
 
 * 🌍  I'm based in São Paulo
 * 🖥️  See my portfolio at [Dodohv.com.br](http://www.dodohv.com.br)
 * ✉️  You can contact me at [douglasvvasquez@gmail.com](mailto:douglasvvasquez@gmail.com)
-* 🚀  I'm currently working on freelas with Visual Basics Application on Excel and Access Database.
-* 🧠  I'm learning React JS pagination, Hooks
+* 🚀  I'm currently working on freelas with Visual Basics Application on Excel. 4 Projects like QR Code Generator(Yes on Excel), Access Form for cash flow and etc.
+* 🧠  I'm learning React JS pagination, Hooks, RPA UIPath
 * ⚡  I Finally got a 16GB RAM notebook from ASUS VivoBook \\z
-
+* 💬 Ask me about: React JS, VBA Learning, SQL Access + Excel VBA, FrontEnd Landing Pages, React-Native interactive apps, APIs Curl/Node Learning, npm install(...)
 ### Skills
 
 <p align="left">
