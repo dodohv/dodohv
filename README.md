@@ -10,7 +10,7 @@ eg: I've been learning to code for 5 years, I started with HTML and Bootstrap, N
 * 🖥️  See my portfolio at [Dodohv.com.br](http://www.dodohv.com.br)
 * ✉️  You can contact me at [douglasvvasquez@gmail.com](mailto:douglasvvasquez@gmail.com)
 * 🚀  I'm currently working on freelas with Visual Basics Application on Excel. 4 Projects like QR Code Generator(Yes on Excel), Access Form for cash flow and etc.
-* 🧠  I'm learning React JS pagination, Hooks, RPA UIPath
+* 🧠  I'm learning Angular and Material Angular, also doing some VBA Projects.
 * ⚡  I Finally got a 16GB RAM notebook from ASUS VivoBook \\z
 * 💬 Ask me about: React JS, VBA Learning, SQL Access + Excel VBA, FrontEnd Landing Pages, React-Native interactive apps, APIs Curl/Node Learning, npm install(...)
 ### Skills
